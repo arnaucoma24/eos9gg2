@@ -21,7 +21,7 @@ Input Dimension: 1
 Output:
   - Value
 Output Dimension: 8
-Output Consistency: Fixed
+Output Consistency: Variable
 Interpretation: Coordinates from PCA, UMAP and t-SNE projections against the 
   DrugBank chemical space.
 Tag:
